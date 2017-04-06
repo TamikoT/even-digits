@@ -1,7 +1,7 @@
 require 'minitest/autorun'
 require 'minitest/reporters'
 #below should be changed when testing recursive solution
-require_relative '../lib/solution-iterative'
+require_relative '../lib/solution-recursive'
 Minitest::Reporters.use! Minitest::Reporters::SpecReporter.new
 
 describe "Test Implementation of even-digits" do
