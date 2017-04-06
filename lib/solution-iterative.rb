@@ -1,3 +1,3 @@
-def digitMatch(x, y)
+def evens(n)
 
 end
